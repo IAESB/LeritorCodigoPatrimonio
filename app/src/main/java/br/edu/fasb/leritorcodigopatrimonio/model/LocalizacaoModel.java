@@ -245,7 +245,10 @@ public class LocalizacaoModel {
         map.put(603, new Localizacao(603, 297, "ATENDIMENTO INDIVIDUAL MEDICINA",                     new Vector<Localizacao>()));
         map.put(929, new Localizacao(929, 297, "LAB.TECNOLOGIA DE ALIMENTO",                          new Vector<Localizacao>()));
         map.put(987, new Localizacao(987, 297, "LAB. BIOMEDICINA",                                    new Vector<Localizacao>()));
-        map.put(255, new Localizacao(255, 0,"UNIDADE DE SERVIÇO",                                 new Vector<Localizacao>()));
+        map.put(427, new Localizacao(427, 297, "LAB. QUIMICA E BIOQUIMICA II",                        new Vector<Localizacao>()));
+        map.put(428, new Localizacao(428, 297, "LAB. ANALISE MICROSCÓPICA",                           new Vector<Localizacao>()));
+        map.put(429, new Localizacao(429, 297, "LAB. ESCOLA",                                         new Vector<Localizacao>()));
+        map.put(255, new Localizacao(255, 0, "UNIDADE DE SERVIÇO",                                    new Vector<Localizacao>()));
 
         return map;
     }
