@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LeritorCodigoPatrimonio</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="selecione_uma_sala">Selecione uma sala para ser feita a leitura</string>
+    <string name="realizar_leitura">Começar a leitura</string>
+    <string name="title_activity_leitor_codigo">LeitorCodigoActivity</string>
+    <string name="abrir">Abrir</string>
+    <string name="mais_um">Adicionar mais um</string>
+    <string name="salvar">Salvar</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="confirma_remocao_item_msg">Você realmente deseja remover esse item?</string>
+</resources>
